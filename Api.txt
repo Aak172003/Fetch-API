@@ -1,0 +1,43 @@
+Api -> It is a Language Independent Concept 
+
+Suppose we make website , jisme hum 
+Amazon , JioMart , SnapDeal , Flipcart ke products ko show krana chahte hai , jisse log hamari website pr aae or saari companies ke products ke beech comparison krke product purchase kr ske 
+
+so hume Amazon , JioMart , SnapDeal , Flipcart ke products ka data chaiye , so hum direct inke Databases se to connect nhi kr skte , so Hum in companies dwara publish API ko use krte hai , jo ki hume un companies ka data ka information Provide krta hai .
+
+
+Provider -> jo company api provide krta hai 
+Consumer -> jo company ke api ko use krta hai
+
+
+Suppse we develope Web Application , jo ki databases se interact krta hai directly 
+
+so only our web application hi databases se data ko access krta hai , 
+Agr hum Ek Android application bnae or chahte hi ki wo bhi ussi DB ka data use kre , so wo nhi kr skta 
+
+so jo original Web Application hai jo direct DB se interact krta hai , so wo application servecies ko expose krdeta hai ki kon kon si servies chaiye hogi meri application ko android me chalane ke lie , Ek Web Api bna kr  
+phr hum us api se communicate krenge or wo web api se so wo data le paega web applocation ka  
+
+***********************************************************************************
+
+Json Data Format Easy hota hai pdhne me as comparison to XML Data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
