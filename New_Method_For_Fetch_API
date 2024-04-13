@@ -1,0 +1,16 @@
+1. fetch api is used when we don't want to depend on any external library .
+
+2. Axios is third party library . 
+As compared to fetch api error handling become easy in axios . 
+
+3. Fetch api / axios with async and await .
+
+Basically fetch api and axios return promise , this promise handling will bexome hectic for coders so we can use async and await . 
+This make exay to handle promise , because promise will take .then .then but async await would not handle via .then .then
+
+So React query and SWR is a popular library for helping in data fetching and data management 
+
+4. SWR -> Stale While-Revalidate (Also third party library )
+This help in data management and use caching technique, jiske through user ko cache data provide kr deta hai . 
+
+5. React Query ->  built in support for ssr ( server-side-rendering)
